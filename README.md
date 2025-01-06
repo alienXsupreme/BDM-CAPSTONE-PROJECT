@@ -42,7 +42,7 @@ This project analyzes and optimizes the operations of Inaya Cakezz, a medium-siz
 ### Final Presentation  
 - Summarizes the project, including the problem statement, data analysis, and strategic recommendations.  
 - Features visual aids such as line charts, pie graphs, and treemaps to present data effectively.  
-- Available in [BDM Final Presentation.pdf](link to BDM Final Presentation.pdf).  
+- Available in [[BDM Final Presentation.pdf](https://github.com/alienXsupreme/BDM-CAPSTONE-PROJECT/blob/main/BDM%20CAPSTONE%20PROJECT%20PRESENTATION.pdf)](link to BDM Final Presentation.pdf).  
 
 ---
 
