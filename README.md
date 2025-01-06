@@ -26,7 +26,7 @@ This project analyzes and optimizes the operations of Inaya Cakezz, a medium-siz
 ### Proposal  
 - Introduces the project, outlining objectives and the approach.  
 - Highlights primary challenges faced by Inaya Cakezz, including operational inefficiencies and delivery delays.  
-- Available in [BDM PROPOSAL.pdf](link to Proposal.pdf).  
+- Available in [[BDM PROPOSAL.pdf](https://github.com/alienXsupreme/BDM-CAPSTONE-PROJECT/blob/main/BDM%20PROPOSAL.pdf)](link to Proposal.pdf).  
 
 ### Mid-Term Submission  
 - Contains an executive summary, proof of data originality, metadata, descriptive statistics, and a detailed explanation of the data collection and cleaning process.  
