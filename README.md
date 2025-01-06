@@ -31,7 +31,7 @@ This project analyzes and optimizes the operations of Inaya Cakezz, a medium-siz
 ### Mid-Term Submission  
 - Contains an executive summary, proof of data originality, metadata, descriptive statistics, and a detailed explanation of the data collection and cleaning process.  
 - Discusses initial findings, including key trends and preliminary insights on sales and customer demographics.  
-- Available in [BDM Mid-Term Submission Doc.pdf](link to BDM Mid-Term Submission Doc.pdf).  
+- Available in [[BDM Mid-Term Submission Doc.pdf](https://github.com/alienXsupreme/BDM-CAPSTONE-PROJECT/blob/main/BDM%20MID%20TERM%20SUBMISSION.pdf)](link to BDM Mid-Term Submission Doc.pdf).  
 
 ### End-Term Submission  
 - Includes a comprehensive analysis of sales data, customer preferences, delivery logistics, and financial performance.  
