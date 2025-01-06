@@ -19,5 +19,28 @@ Formulated actionable strategies to improve inventory management, optimize deliv
 
 ## Project Structure
 
+# 1. Proposal
+-Introduces the project, outlining objectives and the approach.
+-Highlights primary challenges faced by Inaya Cakezz, including operational inefficiencies and delivery delays.
+-Available in [Proposal.pdf](link to Proposal.pdf).
+
+# 2. Mid-Term Submission
+-Contains an executive summary, proof of data originality, metadata, descriptive statistics, and a detailed explanation of the data collection and cleaning process.
+-Discusses initial findings, including key trends and preliminary insights on sales and customer demographics.
+-Available in [BDM Mid-Term Submission Doc.pdf](link to BDM Mid-Term Submission Doc.pdf).
+
+# 3. End-Term Submission
+-Includes a comprehensive analysis of sales data, customer preferences, delivery logistics, and financial performance.
+-Provides detailed insights into sales trends, seasonal patterns, and flavor preferences.
+-Offers actionable recommendations for optimizing operations and enhancing profitability.
+-Available in [BDM End-Term Submission Doc.pdf](link to BDM End-Term Submission Doc.pdf).
+
+# 4. Final Presentation
+-Summarizes the project, including the problem statement, data analysis, and strategic recommendations.
+-Features visual aids such as line charts, pie graphs, and treemaps to present data effectively.
+-Available in [BDM Final Presentation.pdf](link to BDM Final Presentation.pdf).
+
+
+
 
 
