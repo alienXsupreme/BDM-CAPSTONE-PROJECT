@@ -37,7 +37,7 @@ This project analyzes and optimizes the operations of Inaya Cakezz, a medium-siz
 - Includes a comprehensive analysis of sales data, customer preferences, delivery logistics, and financial performance.  
 - Provides detailed insights into sales trends, seasonal patterns, and flavor preferences.  
 - Offers actionable recommendations for optimizing operations and enhancing profitability.  
-- Available in [BDM End-Term Submission Doc.pdf](link to BDM End-Term Submission Doc.pdf).  
+- Available in [[BDM End-Term Submission Doc.pdf](https://github.com/alienXsupreme/BDM-CAPSTONE-PROJECT/blob/main/BDM%20FINAL%20SUBMISSION.pdf)](link to BDM End-Term Submission Doc.pdf).  
 
 ### Final Presentation  
 - Summarizes the project, including the problem statement, data analysis, and strategic recommendations.  
