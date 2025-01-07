@@ -60,13 +60,17 @@ This project analyzes and optimizes the operations of Inaya Cakezz, a medium-siz
 ---
 
 ## Recommendations  
-- **Seasonal Promotions:** Maximize revenue during festive seasons with targeted discounts and campaigns.  
-- **Smart Stocking:** Focus on larger cake sizes and high-margin flavors like Vanilla and Mango.  
-- **Targeted Marketing:** Enhance outreach in moderately performing locations with localized campaigns.  
-- **Delivery Optimization:** Streamline delivery operations to handle peak times more efficiently.  
-- **Customer Focus:** Prioritize high-demand flavors while ensuring adequate stock of popular items like Chocolate.  
-- **Cost Optimization:** Review and adjust cost structures for flavors with lower ROI.  
-- **Continuous Monitoring:** Regularly analyze sales data and customer feedback to adapt strategies dynamically.  
+
+
+- Maintain stock of customer favorites, such as chocolate cakes, ensuring that high-demand items are always available.  
+- While maintaining the supply of chocolate cakes due to high demand, increase marketing efforts for high-margin flavors like vanilla and mango.  
+- Increase marketing efforts in moderately performing locations through localized advertising and community engagement.  
+  - Conduct market research to understand the specific preferences and challenges in low-performing locations.  
+- Continue to analyze sales and delivery trends, especially during peak hours (3 PM - 6 PM).  
+  - Use this data to optimize staff allocation and inventory levels during busy periods.  
+  - Consider investing in additional delivery resources or partnering with third-party delivery services during high-demand periods.  
+- Regularly analyze sales data and customer feedback to identify emerging trends and areas for improvement.  
+  - Stay agile and adapt marketing and operational strategies based on the latest insights and market conditions.  
 
 ---
 
